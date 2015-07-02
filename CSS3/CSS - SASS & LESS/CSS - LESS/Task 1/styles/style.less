@@ -1,0 +1,265 @@
+@gridGutter: 10px;
+@gridColumnWidth: 87px;
+@lineHeight: 22px;
+@background: #9215f2;
+
+.linearGradient(@color1, @stop1, @color2, @stop2, @color3, @stop3){
+    background: -webkit-linear-gradient(@color1 @stop1, @color2 @stop2, @color3 @stop3);
+    background:    -moz-linear-gradient(@color1 @stop1, @color2 @stop2, @color3 @stop3);
+    background:      -o-linear-gradient(@color1 @stop1, @color2 @stop2, @color3 @stop3);
+    background:         linear-gradient(@color1 @stop1, @color2 @stop2, @color3 @stop3);
+}
+
+body, ul, li, dl, dt, dd, h1, h2, p, input {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    font-size: 100%;
+    line-height: @lineHeight;
+}
+
+img {
+    border: none;
+}
+
+body {
+	color: white;
+    background: @background fixed;
+	.linearGradient(#d593ff, 0%, #8f19ef, 165px, @background, 100%);
+}
+
+a {
+    color: #d0a3f7;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+input,
+.input {
+    border: 1px solid #603382;
+    border-radius: 10px;
+    background: #b35ef3;
+    color: white;
+    text-indent: 5px;
+}
+
+label,
+[type = "submit"] {
+    cursor: pointer;
+}
+
+.code {
+    font-family: Consolas, monospace;
+}
+
+.clearfix{
+    &::after {
+        display: table;
+        content: " ";
+        clear: both;
+    }
+}
+
+.unstyled {
+    list-style: none;
+}
+
+.styled {
+    .unstyled;
+
+    li {
+        background: url(../../images/li-dot.png) 0 4px no-repeat;
+        padding-left: 20px + @gridGutter;
+    }
+}
+
+.inline {
+    .clearfix;
+    .unstyled;
+
+    & > li {
+        float: left;
+
+        &:not(:last-child) {
+            margin-right: @lineHeight / 2;
+        }
+    }
+}
+
+.dl-inline {
+    dt {
+        float: left;
+        text-align: right;
+        width: @gridColumnWidth - @gridGutter;
+    }
+
+    dd {
+        margin-left: @gridColumnWidth;
+    }
+}
+
+.row {
+    .clearfix;
+    margin-left: -@gridGutter;
+}
+
+.span {
+    float: left;
+    margin-left: @gridGutter;
+}
+
+.span9 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 863px;
+}
+.span8 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 766px;
+}
+.span7 {
+  float: left;
+  margin-left: @gridGutter;
+  margin-top: 30px;
+  width: 769px;
+}
+.span6 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 572px;
+}
+.span5 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 475px;
+}
+.span4 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 378px;
+}
+.span3 {
+  float: left;
+  margin-left: @gridGutter;
+  margin-top: 50px;
+  width: 381px;
+}
+.span2 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 184px;
+}
+.span1 {
+  float: left;
+  margin-left: @gridGutter;
+  width: 87px;
+}
+
+.container {
+	width: 1170px;
+    margin: 2 * @gridGutter auto @gridGutter;
+}
+
+.box {
+    margin-bottom: @gridGutter;
+    padding: @lineHeight / 2;
+    border: 1px solid #222222;
+    border-radius: 10px;
+}
+
+.box1 {
+    margin-bottom: @gridGutter;
+    margin-left: 30px;
+    padding: @lineHeight / 2;
+    border: 1px solid #222222;
+    border-radius: 4px;
+}
+
+.box h1,
+.box h2,
+.box p:not(:last-child) {
+    margin-bottom: 7px;
+}
+
+.box footer {
+    text-align: right;
+}
+
+.box-white {
+    background: white;
+
+    &,
+    a {
+        color: black;
+    }
+}
+
+
+.form {
+    &,
+    dl {
+        margin-bottom: 11px;
+    }
+}
+
+.form-horizontal {
+    .dl-inline;
+    .form;
+    margin-left: 20px;
+}
+
+.btn {
+    .input;
+    border-top-color: white;
+    border-left-color: white;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.menu {
+    a {
+        color: white;
+    }
+
+    &,
+    & ul {
+        .box;
+    }
+
+    ul {
+        .box-white;
+        .unstyled;
+        position: absolute;
+        display: none;
+    }
+
+    li:hover ul {
+        display: block;
+    }
+
+    ul li:not(:last-child) {
+        margin-bottom: @lineHeight / 2;
+    }
+}
+
+.menu-horizontal {
+    .inline;
+    .menu;
+    width: 780px;
+    margin-left: 25px;
+}
+
+.global-header {
+    img {
+        margin-top: @gridGutter;
+    }
+}
+
+.global-footer {
+    text-align: center;
+}

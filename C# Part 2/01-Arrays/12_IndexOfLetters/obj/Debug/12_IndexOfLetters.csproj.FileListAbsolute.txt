@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\12_IndexOfLetters\obj\Debug\12_IndexOfLetters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\12_IndexOfLetters\obj\Debug\12_IndexOfLetters.pdb

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Homework 7</title>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="tasks">
+		<div><h4>Task 1: Planar coordinates</h4> Calculate the distance between two points. <br />Check if three segment lines can form a triangle.</div>
+			<label for="point">Point A:</label>
+			<input type="text" id="x1">
+			<input type="text" id="y1"><br />
+			<label for="point">Point B:</label>
+			<input type="text" id="x2">
+			<input type="text" id="y2"><br />
+			<label for="point">Point C:</label>
+			<input type="text" id="x3">
+			<input type="text" id="y3"><br />
+			<button href="#" onclick="PlanarCoordinates()">Check</button>
+		<div><h4>Task 2: Remove elements</h4> Write a function that removes all elements with a given value. (separate elements by Space)</div>
+			<label for="numberReverse">Array:</label>
+			<input type="text" id="array"><br />
+			<label for="numberReverse">Remove elements array:</label>
+			<input type="text" id="removeFromArray"><br />
+			<button href="#" onclick="removeElements()">Remove</button>
+		<div><h4>Task 3: Deep copy</h4> Write a function that makes a deep copy of an object.</div>
+			<button href="#" onclick="deepCopy()">Copy</button>
+		<div><h4>Task 4: Has property</h4> Write a function that checks if a given object contains a given property.<br />The object has properties: 'name', 'gender', 'age', 'town', 'education'</div>
+			<label for="checkProperty">Property: </label>
+			<input type="text" id="property"><br />
+			<button href="#" onclick="hasProperty()">Check</button>
+		<div><h4>Task 5: Youngest person</h4> Write a function that finds the youngest person in a given array of people and prints his/hers full name.</div>
+			<button href="#" onclick="youngestPerson()">Find</button>
+		<div><h4>Task 6: Group objects</h4> Write a function that groups an array of people by age, first or last name.<br />You can sort by: 'firstname', 'lastname' and 'age'.</div>
+			<label for="sort">Sort by: </label>
+			<input type="text" id="sortBy"><br />
+			<button href="#" onclick="groupObj()">Group</button>
+	</div>
+
+	<div class="results">
+		<p id="result1">Result Task 1:</p>
+		<p id="result2">Result Task 2:</p>
+		<p id="result3">Result Task 3:</p>
+		<p id="result4">Result Task 4:</p>
+		<p id="result5">Result Task 5:</p>
+		<p id="result6">Result Task 6:</p>
+	</div>
+
+	<script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+﻿C# is a programming language, .NET is the framework that the language is built on.
+In .NET you can find Visual Basic and other languages in addition to C#.

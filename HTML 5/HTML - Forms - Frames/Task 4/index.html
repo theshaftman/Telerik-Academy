@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Grid</title>
+
+    	<style type="text/css">
+			table {  
+				border-collapse:collapse; 
+				width:800px; 
+				padding:0px;
+			}
+			td, th {
+				font-family:Arial; 
+				border: solid 1px #808080;
+				padding:0px;
+				padding-left:9px;
+				text-align:left;
+				font-weight:normal;
+				font-size:small;
+			}
+			th, tfoot {
+				height:30px;
+			}
+			.col1 {  
+				text-align:left; 
+				background:#F0F0F0; 
+			}
+			.col2 {
+				background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(204,204,204,1) 100%, rgba(246,246,246,1) 100%); 
+			}
+			.col3 {
+				background:#D8D8D8; 
+			}
+			.bt {
+	            border:0px;
+	            padding:1px;            
+	            cursor: pointer;            
+	            height:22px;
+	            background-color:transparent;
+	            color:#3b2f2f;
+	        }
+		</style>
+	</head>
+
+	<body>
+		<table>
+			<thead>
+				<tr class="col1">
+					<th colspan="6">
+						<label id="drag">Drag a column header and drop it here to group by that column</label>
+					</th>
+				</tr>
+				<tr class="col2">
+					<th>
+						<label id="productid">ProductID</label>
+					</th>
+					<th>
+						<label id="prodname">Product name</label>
+					</th>
+					<th>
+						<label id="price">Unit price</label>
+					</th>
+					<th>
+						<label id="quantity">Quantity per unit</label>
+					</th>
+					<th>
+						<label id="units">Units in stock</label>
+					</th>
+					<th>
+						<label id="discount">Discontinued</label>
+					</th>
+				</tr>
+				<tr class="col3">
+					<th>
+						<input type="text" name="productid" size="1" maxlength="3"/>
+					</th>
+					<th>
+						<input type="text" name="prodname" size="15" maxlength="30"/>
+					</th>
+					<th>
+						<input type="text" name="price" size="8" maxlength="10"/>
+						<input type="image" src="1.png" width="20" height="20" alt="reset" name="btn1"/>
+					</th>
+					<th>
+						<input type="text" name="quantity" size="9" maxlength="20"/>
+					</th>
+					<th>
+						<input type="text" name="units" size="8" maxlength="5"/>
+						<input type="image" src="1.png" width="20" height="20" alt="rest" name="btn2">
+					</th>
+					<th>
+						<input type="checkbox" id="discont" value="discont">
+						<input type="image" src="1.png" width="20" height="20" alt="reset" name="btn3">
+					</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>
+						<label id="1x1">1</label>
+					</td>
+					<td>
+						<label id="1x2">Chai</label>
+					</td>
+					<td>
+						<label id="1x3">$18.00</label>
+					</td>
+					<td>
+						<label id="1x4">10 boxes x 20 bags</label>
+					</td>
+					<td>
+						<label id="1x5">39</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="2x1">2</label>
+					</td>
+					<td>
+						<label id="2x2">Chang</label>
+					</td>
+					<td>
+						<label id="2x3">$19.00</label>
+					</td>
+					<td>
+						<label id="2x4">24 - 12 oz bottles</label>
+					</td>
+					<td>
+						<label id="2x5">17</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="3x1">3</label>
+					</td>
+					<td>
+						<label id="3x2">Aniseed Syrup</label>
+					</td>
+					<td>
+						<label id="3x3">$10.00</label>
+					</td>
+					<td>
+						<label id="3x4">12 - 550 ml bottles</label>
+					</td>
+					<td>
+						<label id="3x5">13</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="4x1">4</label>
+					</td>
+					<td>
+						<label id="4x2">Chef Anton`s Cajun Seasoning</label>
+					</td>
+					<td>
+						<label id="4x3">$22.00</label>
+					</td>
+					<td>
+						<label id="4x4">48 - 6 oz jars</label>
+					</td>
+					<td>
+						<label id="4x5">53</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="5x1">5</label>
+					</td>
+					<td>
+						<label id="5x2">Chef Anton`s Gumbo Mix</label>
+					</td>
+					<td>
+						<label id="5x3">$21.35</label>
+					</td>
+					<td>
+						<label id="5x4">36 boxes</label>
+					</td>
+					<td>
+						<label id="5x5">0</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" checked="checked" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="6x1">6</label>
+					</td>
+					<td>
+						<label id="6x2">Grandma`s Boysenberry Spread</label>
+					</td>
+					<td>
+						<label id="6x3">$25.00</label>
+					</td>
+					<td>
+						<label id="6x4">12 - 8 jars</label>
+					</td>
+					<td>
+						<label id="6x5">120</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="7x1">7</label>
+					</td>
+					<td>
+						<label id="7x2">Uncle Bob`s Organic Dried Pears</label>
+					</td>
+					<td>
+						<label id="7x3">$30.00</label>
+					</td>
+					<td>
+						<label id="7x4">12 - 1 lb pkgs.</label>
+					</td>
+					<td>
+						<label id="7x5">15</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="8x1">8</label>
+					</td>
+					<td>
+						<label id="8x2">Northwoods Cranberry Sauce</label>
+					</td>
+					<td>
+						<label id="8x3">$40.00</label>
+					</td>
+					<td>
+						<label id="8x4">12 - 12 oz jars</label>
+					</td>
+					<td>
+						<label id="8x5">6</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="9x1">9</label>
+					</td>
+					<td>
+						<label id="9x2">Mishi Kobe Niku</label>
+					</td>
+					<td>
+						<label id="9x3">$97.00</label>
+					</td>
+					<td>
+						<label id="9x4">18 - 500 g pkgs.</label>
+					</td>
+					<td>
+						<label id="9x5">29</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" checked="checked" disabled="disabled">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label id="10x1">10</label>
+					</td>
+					<td>
+						<label id="10x2">Ikura</label>
+					</td>
+					<td>
+						<label id="10x3">$31.00</label>
+					</td>
+					<td>
+						<label id="10x4">12 - 200 ml jars</label>
+					</td>
+					<td>
+						<label id="10x5">31</label>
+					</td>
+					<td>
+						<input type="checkbox" name="discont" value="discont" disabled="disabled">
+					</td>
+				</tr>
+			</tbody>
+
+			<tfoot>
+				<tr class="col2">
+					<td colspan="6" style="border-right:0;border-left:0; height:40px;">
+						<input type="image" src="4.png" width="20" height="20" name="back" alt="back"/>
+	                    <input type="image" src="2.png" width="20" height="20" name="back" alt="back"/>
+	                    <input type="button" id="btnF3"   value="1" class="bt"/>
+	                    <input type="button" id="btnF4"   value="2" class="bt"/>
+	                    <input type="button" id="btnF5"   value="3" class="bt"/>
+	                    <input type="button" id="btnF6"   value="4" class="bt"/>
+	                    <input type="button" id="btnF7"   value="5" class="bt"/>
+	                    <input type="button" id="btnF8"   value="6" class="bt"/>
+	                    <input type="button" id="btnF9"   value="7" class="bt"/>
+	                    <input type="button" id="btnF10"   value="8" class="bt"/>
+	                    <input type="button" id="btnF11"   value="9" class="bt"/>
+	                    <input type="button" id="btnF12"   value="10" class="bt"/>
+	                    ...
+	                    <input type="image" src="3.png" width="20" height="20" name="next" alt="next"/>
+	                    <input type="image" src="5.png" width="20" height="20" name="next" alt="next"/>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;					
+						<label for="numberOfpages">Page size</label>
+                    	<select id="numberOfpages">
+                         <option>5</option>
+                         <option selected="selected">10</option>
+                         <option>15</option>
+                    	</select>
+                    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;						
+						<label>335104 items in 33511 pages</label>
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+					
+</html>

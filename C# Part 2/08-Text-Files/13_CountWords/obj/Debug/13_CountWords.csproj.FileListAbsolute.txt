@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\bin\Debug\13_CountWords.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\bin\Debug\13_CountWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\bin\Debug\13_CountWords.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\obj\Debug\13_CountWords.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\obj\Debug\13_CountWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\13_CountWords\obj\Debug\13_CountWords.pdb

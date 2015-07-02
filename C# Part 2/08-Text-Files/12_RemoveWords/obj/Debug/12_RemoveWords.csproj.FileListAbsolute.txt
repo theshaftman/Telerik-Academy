@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.pdb

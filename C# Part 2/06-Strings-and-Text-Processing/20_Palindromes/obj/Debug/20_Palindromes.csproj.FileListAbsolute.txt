@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\20_Palindromes\bin\Debug\20_Palindromes.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\20_Palindromes\bin\Debug\20_Palindromes.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\20_Palindromes\bin\Debug\20_Palindromes.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\20_Palindromes\obj\Debug\20_Palindromes.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\20_Palindromes\obj\Debug\20_Palindromes.pdb

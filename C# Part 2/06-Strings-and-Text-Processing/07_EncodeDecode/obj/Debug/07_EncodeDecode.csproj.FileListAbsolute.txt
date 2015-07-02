@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\07_EncodeDecode\bin\Debug\07_EncodeDecode.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\07_EncodeDecode\bin\Debug\07_EncodeDecode.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\07_EncodeDecode\bin\Debug\07_EncodeDecode.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\07_EncodeDecode\obj\Debug\07_EncodeDecode.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\07_EncodeDecode\obj\Debug\07_EncodeDecode.pdb

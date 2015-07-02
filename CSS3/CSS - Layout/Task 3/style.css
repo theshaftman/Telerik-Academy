@@ -1,0 +1,67 @@
+body section {
+    width: 500px;
+    border: 1px solid #FFFF00;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background: #404040;
+    font: 18px normal Arial;
+}
+
+body section header {
+	margin: 10px;
+}
+
+body section header div {
+    font-size:18px;
+    color:white;
+    letter-spacing:-1px;
+}
+
+body section header img {
+    vertical-align: -15px;
+}
+
+body section article {
+    background:#505050 ;
+}
+
+body section article header {
+    color: #FFFF00;
+    padding: 1px 0px 0px 0px;
+}
+
+body section article header h1 {
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+body section article div {
+    color:#A0A0A0;
+    margin: 10px;
+}
+
+body section article div a {
+    color:#A0A0A0;
+    text-decoration: none;
+}
+
+body section article div a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.strong {
+    color:white;
+}
+
+.btn-go {
+    margin-top: -3px;
+    padding: 5px 15px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background: rgba(229, 110, 110, .9);
+    box-shadow: inset 0px -15px 5px #EC0B0F;
+    color: white;
+    text-transform: uppercase;
+}

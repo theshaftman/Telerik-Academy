@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\bin\Debug\01_AllocateArray.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\bin\Debug\01_AllocateArray.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\bin\Debug\01_AllocateArray.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\obj\Debug\01_AllocateArray.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\obj\Debug\01_AllocateArray.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\01_AllocateArray\obj\Debug\01_AllocateArray.pdb

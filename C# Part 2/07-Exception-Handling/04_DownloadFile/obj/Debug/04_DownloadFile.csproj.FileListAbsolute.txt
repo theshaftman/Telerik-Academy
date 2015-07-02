@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\bin\Debug\04_DownloadFile.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\bin\Debug\04_DownloadFile.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\bin\Debug\04_DownloadFile.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\obj\Debug\04_DownloadFile.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\obj\Debug\04_DownloadFile.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_7\Exception-Handling\04_DownloadFile\obj\Debug\04_DownloadFile.pdb

@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.pdb

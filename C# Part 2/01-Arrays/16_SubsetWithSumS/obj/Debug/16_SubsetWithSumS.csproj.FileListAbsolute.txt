@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\16_SubsetWithSumS\bin\Debug\16_SubsetWithSumS.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\16_SubsetWithSumS\bin\Debug\16_SubsetWithSumS.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\16_SubsetWithSumS\bin\Debug\16_SubsetWithSumS.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\16_SubsetWithSumS\obj\Debug\16_SubsetWithSumS.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\16_SubsetWithSumS\obj\Debug\16_SubsetWithSumS.pdb

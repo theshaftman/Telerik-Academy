@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Homework 9</title>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="tasks">
+		<div><h4>Task 1: Reverse string</h4> Write a JavaScript function that reverses a string and returns it.</div>
+			<label for="reverse">String:</label>
+			<input type="text" id="reverseStr"><br />
+			<button href="#" onclick="reverseString()">Reverse</button>
+		<div><h4>Task 2: Correct brackets</h4> Write a JavaScript function to check if in a given expression the brackets are put correctly.</div>
+			<label for="brackets">Expression: </label>
+			<input type="text" id="expression"><br />
+			<button href="#" onclick="correctBrackets()">Check</button>
+		<div><h4>Task 3: Sub-string in text</h4> Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).</div>
+			<textarea name="text" id="textStr" rows="5" cols="70"></textarea><br />
+			<input type="text" id="substrSearch"><br />
+			<button href="#" onclick="substringInText()">Find</button>
+		<div><h4>Task 4: Parse tags</h4> You are given a text. Write a function that changes the text in all regions:<br />
+		•	&lt;upcase>text&lt;/upcase> to uppercase.<br />
+		•	&lt;lowcase>text&lt;/lowcase> to lowercase<br />
+		•	&lt;mixcase>text&lt;/mixcase> to mix casing(random)
+		</div>
+			<textarea name="text" id="getText" rows="5" cols="70"></textarea>
+			<textarea name="parseTagsRes" id="result4" rows="5" cols="70" readonly="true"> Result Task 4: </textarea><br />
+			<button href="#" onclick="parseTags()">Change</button>
+		<div><h4>Task 5: nbsp</h4> Write a function that replaces non breaking white-spaces in a text with &amp;nbsp;</div>
+			<textarea name="nbsp" id="nbspText" rows="5" cols="70"></textarea>
+			<textarea name="nbspRes" id="result5" rows="5" cols="70" readonly="true"> Result Task 5: </textarea><br />
+			<button href="#" onclick="enterNbsp()">Replace</button>
+		<div><h4>Task 6: Extract text from HTML</h4> Write a function that extracts the content of a html page given as text.</div>
+			<textarea name="extractHTML" id="extractText" rows="5" cols="70"></textarea>
+			<textarea name="extractHTMLRes" id="result6" rows="5" cols="70" readonly="true"> Result Task 6: </textarea><br />
+			<button href="#" onclick="extraxtText()">Extract</button>
+		<div><h4>Task 7: Parse URL</h4> Write a script that parses an URL address given in the format: [protocol]://[server]/[resource] and extracts from it the [protocol], [server] and [resource] elements.</div>
+			<textarea name="parse" id="emailSearch" rows="5" cols="70"></textarea>
+			<textarea name="parseRes" id="result7" rows="5" cols="70" readonly="true"> Result Task 7: </textarea><br />
+			<button href="#" onclick="parseURL()">Parse</button>
+		<div><h4>Task 8: Replace tags</h4> Write a JavaScript function that replaces in a HTML document given as string all the tags &lt;a href="…">…&lt;/a> with corresponding tags [URL=…]…/URL].</div>
+			<textarea name="replace" id="replaceTagsStr" rows="5" cols="70"></textarea>
+			<textarea name="replaceRes" id="result8" rows="5" cols="70" readonly="true"> Result Task 8: </textarea><br />
+			<button href="#" onclick="replaceTags()">Replace</button>
+		<div><h4>Task 9: Extract e-mails</h4> Write a function for extracting all email addresses from given text. Return the emails as array of strings.</div>
+			<textarea name="emails" id="emailSearchStr" rows="5" cols="70"></textarea>
+			<textarea name="emailsRes" id="result9" rows="5" cols="70" readonly="true"> Result Task 9: </textarea><br />
+			<button href="#" onclick="extractEmails()">Extract</button>
+		<div><h4>Task 10: Find palindromes</h4> Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".</div>
+			<textarea name="find" id="palindromeSearchStr" rows="5" cols="70"></textarea>
+			<textarea name="findRes" id="result10" rows="5" cols="70" readonly="true"> Result Task 10: </textarea><br />
+			<button href="#" onclick="findPalindromes()">Find</button>
+		<div><h4>Task 11: String format</h4> Write a function that formats a string using placeholders.<br /><br />
+			var str = stringFormat('Hello {0}!', 'Peter');<br />
+			var frmt = '{0}, {1}, {0} text {2}';<br />
+			str = stringFormat(frmt, 1, 'Pesho', 'Gosho');
+		</div>
+			<textarea name="formatRes" id="result11" rows="5" cols="70" readonly="true"> Result Task 11: </textarea><br />
+			<button href="#" onclick="stringFormatFunction()">Format</button>
+		<div><h4>Task 12: Generate list</h4>•	Write a function that creates a HTML &lt;ul> using a template for every HTML &lt;li>.<br />
+		•	The source of the list should be an array of elements.<br />
+		•	Replace all placeholders marked with –{…}– with the value of the corresponding property of the object.
+		</div>
+		    <div data-type="template" id="list-item">
+		        <strong>-{name}-</strong> <span>-{age}-</span>
+		    </div>
+			<button onclick="generateList()">Generate</button>
+	</div>
+
+	<div class="results">
+		<p id="result1">Result Task 1:</p>
+		<p id="result2">Result Task 2:</p>
+		<p id="result3">Result Task 3:</p>
+	</div>
+
+	<script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>

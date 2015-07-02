@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\16_DateDifference\bin\Debug\16_DateDifference.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\16_DateDifference\bin\Debug\16_DateDifference.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\16_DateDifference\bin\Debug\16_DateDifference.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\16_DateDifference\obj\Debug\16_DateDifference.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\16_DateDifference\obj\Debug\16_DateDifference.pdb

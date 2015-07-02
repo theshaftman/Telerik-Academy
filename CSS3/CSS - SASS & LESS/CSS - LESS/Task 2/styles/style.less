@@ -1,0 +1,41 @@
+body, ul, li {
+    margin-left: 50px;
+    padding: 0;
+ 
+}
+
+.gallery {
+    width: 900px;
+    position: relative;
+}
+
+.gallery-item {
+    opacity: 0.5;
+    float: left;
+    list-style-type: none;
+    margin: 5px;
+
+    &:hover {
+        opacity: 1;              
+    }
+
+    &:target {
+        img {            
+            visibility: visible;
+            
+        } 
+    }
+}
+
+.gallery-photo {
+    -webkit-transition: .1s  all ease-in-out;
+    -moz-transition: .1s  all ease-in-out;
+    -o-transition: .1s all ease-in-out;
+    transition: .1s all ease-in-out;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    float: left;
+    margin-left: 5px;
+    visibility: hidden;
+}

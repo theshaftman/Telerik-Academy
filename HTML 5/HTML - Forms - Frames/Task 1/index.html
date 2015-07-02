@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Last Name</title>
+
+		<style type="text/css">
+			table { border-collapse:collapse; }
+			table, td, th { border:1px solid black; }
+			.col1 { font-weight:bold; text-align:right; }
+			.fin { background-color:#99FFCC; font-weight:bold; text-align:center; }
+		</style>
+	</head>
+
+	<body>
+		<form method="get" action="apply-now.php">
+		<input name="subject" type="hidden" value="Class" />
+
+			<table>
+				<tr>
+					<td class="col1"><label for="lname">Last Name</label></td>
+					<td colspan="3"><input type="text" name="lname" id="lname" value="Nakov" maxlength="20"/></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="fname">First Name</label></td>
+					<td colspan="3"><input type="text" name="fname" id="fname" value="Svetlin" maxlength="20"/></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="address">Address</label></td>
+					<td colspan="3"><textarea rows="5" cols="27" name="address" id="address">17 Hristo Botev Str. floor 3, apt. 12</textarea></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="city">City</label></td>
+					<td><input type="text" name="city" id="city" value="Kaspichan" maxlength="20"/></td>
+					<td class="col1"><label for="state">State</label></td>
+					<td><input type="text" name="state" id="state" size="4" maxlength="3" /></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="zipcode">Zip/Postal Code</label></td>
+					<td colspan="3"><input type="text" name="zipcode" id="zipcode" value="9325" size="5" maxlength="5" /></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="country">Country</label></td>
+					<td colspan="3"><select name="country" id="country">
+					<option value="BUL" selected="selected">Bulgaria</option>
+					<option value="MAC">Macedonia</option>
+					<option value="ROM">Romania</option>
+					</select></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="phone1">Phone(country code,<br />area code, number)</label></td>
+					<td colspan="3">(+<input type="text" name="phone1" id="phone1" value="359" size="5" maxlength="3"/><label for="phone2">)</label><input type="text" name="phone2" id="phone2" value="88" size="4" maxlength="2"/><label for="phone3">-</label><input type="text" name="phone3" id="phone3" value="8334343" size="9" maxlength="7"/></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="email">E-mail</label></td>
+					<td colspan="3"><input type="text" name="email" id="email" value="nakov@kaspichan.org"/></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="month">Birth date</label></td>
+					<td colspan="3">&nbsp;Month<input type="text" name="month" id="month" value="06" size="2" maxlength="2"/><label for="day">&nbsp;Day</label><input type="text" name="day" id="day" value="14" size="2" maxlength="2"/><label for="year">&nbsp;Year (4 digit)</label><input type="text" name="year" id="year" value="1980" size="4" maxlength="4" /></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="gender">Gender</label></td>
+					<td colspan="3"><select name="gender" id="gender">
+					<option value="gm" selected="selected">Male</option>
+					<option value="gf">Female</option>
+					</select></td>
+				</tr>
+
+				<tr>
+					<td class="col1">Starting date</td>
+					<td colspan="3"><input name="sdate" type="radio" id="spring" value="spring" checked/>
+					<label for="spring">Spring 2006</label>
+					<input name="sdate" type="radio" id="summer" value="summer" />
+					<label for="summer">Summer 2006</label></td>
+				</tr>
+
+				<tr>
+					<td class="col1"><label for="comquest">Comments/Questions</label></td>
+					<td colspan="3"><textarea rows="5" cols="27" name="comquest" id="comquest">Please send me more information about the logging. </textarea></td>
+				</tr>
+
+				<tr>
+					<td class="fin" colspan="4">
+					<input type="submit" name="submit" value="Submit" />
+					<input type="reset" value="Clear This Form" /></td>
+				</tr>
+			</table>
+
+		</form>
+	</body>
+</html>

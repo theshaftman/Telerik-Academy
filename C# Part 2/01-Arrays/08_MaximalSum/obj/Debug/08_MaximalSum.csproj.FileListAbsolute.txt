@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\bin\Debug\08_MaximalSum.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\bin\Debug\08_MaximalSum.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\bin\Debug\08_MaximalSum.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\obj\Debug\08_MaximalSum.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\obj\Debug\08_MaximalSum.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\08_MaximalSum\obj\Debug\08_MaximalSum.csprojResolveAssemblyReference.cache

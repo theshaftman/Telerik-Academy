@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Homework 5</title>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="tasks">
+		<div><h4>Task 1: Increase array members</h4> Allocate an array of 20 integers with elements by its index multiplied by 5.</div>
+			<button href="#" onclick="increaseArrayMembers()">Allocate</button>
+		<div><h4>Task 2: Lexicographically comparison</h4> Write a script that compares two char arrays lexicographically (letter by letter).</div>
+			<label for="arrayA">First "char" array elements(use space between the numbers):</label>
+			<input type="text" id="arrayA"><br />
+			<label for="arrayB">Second "char" array elements(use space between the numbers):</label>
+			<input type="text" id="arrayB"><br />
+			<button href="#" onclick="lexicographicallyComparison()">Compare</button>
+		<div><h4>Task 3: Maximal sequence</h4> Write a script that finds the maximal sequence of equal elements in an array.</div>
+			<label for="writeCommonArray">Array elements(use space between the numbers):</label>
+			<input type="text" id="writeCommonArray"><br />
+			<button href="#" onclick="maximalSequence()">Find</button>
+		<div><h4>Task 4: Maximal increasing sequence</h4> Write a script that finds the maximal increasing sequence in an array.</div>
+			<label for="writeIncreasingArray">Array elements(use space between the numbers):</label>
+			<input type="text" id="writeIncreasingArray"><br />
+			<button href="#" onclick="maximalIncreasingSequence()">Find</button>
+		<div><h4>Task 5: Selection sort</h4> Use the selection sort algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.</div>
+			<label for="sortArray">Array elements(use space between the numbers):</label>
+			<input type="text" id="sortArray"><br />
+			<button href="#" onclick="selectionSort()">Sort</button>
+		<div><h4>Task 6: Most frequent number</h4> Write a script that finds the most frequent number in an array.</div>
+			<label for="findArray">Array elements(use space between the numbers):</label>
+			<input type="text" id="findArray"><br />
+			<button href="#" onclick="mostFrequentNumber()">Find</button>
+		<div><h4>Task 7: Binary search</h4> Write a script that finds the index of given element in a sorted array of integers by using the binary search algorithm.</div>
+			<label for="arrayElements">Array elements(use space between the numbers):</label>
+			<input type="text" id="arrayElements"><br />
+			<label for="selectedElement">Selected value:</label>
+			<input type="text" id="selectedElement"><br />
+			<button href="#" onclick="binSearch()">Find</button>
+	</div>
+
+	<div class="results">
+		<p id="result1">Result Task 1:</p>
+		<p id="result2">Result Task 2:</p>
+		<p id="result3">Result Task 3:</p>
+		<p id="result4">Result Task 4:</p>
+		<p id="result5">Result Task 5:</p>
+		<p id="result6">Result Task 6:</p>
+		<p id="result7">Result Task 7:</p>
+	</div>
+
+	<script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>

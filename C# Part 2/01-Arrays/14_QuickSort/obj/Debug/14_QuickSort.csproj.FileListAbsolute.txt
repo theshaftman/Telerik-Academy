@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\bin\Debug\14_QuickSort.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\obj\Debug\14_QuickSort.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\bin\Debug\14_QuickSort.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\bin\Debug\14_QuickSort.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\obj\Debug\14_QuickSort.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\14_QuickSort\obj\Debug\14_QuickSort.pdb

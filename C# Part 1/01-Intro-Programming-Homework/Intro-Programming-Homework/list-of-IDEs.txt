@@ -1,0 +1,16 @@
+﻿Microsoft Visual Studio - It`s an integrated development environment from Microsoft. You can develop
+          computer programs for Windows, web sites, web applications and web services. You can develop
+          applications on C++, C#, VisualBasic, Web developer express and express for windows phone.
+
+Code::Blocks - It`s a free open source cross-platform IDE developed in C++. It is oriented towards 
+          C, C++ and Fortran. It`s developed for Windows, Linux and Mac OS.
+
+Eclipse - It contains a base workspace and an extensible plug-in system for customizing the environment.
+          You can develop applications for C, C++, COBOL, Fortran, Java, JavaScript, Natural, Perl,
+          PHP, Python, R, Ruby and other programming languages.
+
+NetBeans - It`s IDE for developing primarily with Java, but also can be used for developing applications with
+          PHP, C, C++ and HTML5.
+
+Delphi - It`s for developing console, desktop graphical, web and mobile applications. It`s developed for
+          Windows, Mac OS, iOS and Android

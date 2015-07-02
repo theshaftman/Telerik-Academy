@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\bin\Debug\12_ParseURL.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\bin\Debug\12_ParseURL.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\bin\Debug\12_ParseURL.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\obj\Debug\12_ParseURL.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\obj\Debug\12_ParseURL.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\12_ParseURL\obj\Debug\12_ParseURL.pdb

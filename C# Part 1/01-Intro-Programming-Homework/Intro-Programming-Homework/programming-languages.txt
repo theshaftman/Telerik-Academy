@@ -1,0 +1,14 @@
+﻿C++ - It`s a general-purpose programming language. It is designed for system programming. 
+      For example: desktop applications, servers, performance applications and entertainment software.
+
+C - It`s iterative computer programming language. It supports structed programming and lexical variable scope.
+    By design C had been coded in assembly language.
+
+Java - It`s functional computer programming language, popular at the moment, class-based, object-oriented.
+       The code of Java runs on any Java virtual machine (JVM).
+
+JavaScript - It`s a dynamic computer programming language and it`s mostly used as part of web browsers.
+             It allows client-side scripts to interact with the user.
+
+F# - It`s strongly typed, multi-paradigm programming language. It`s most used as a cross-platform language
+     but it can be used to generate JavaScript or GPU code.

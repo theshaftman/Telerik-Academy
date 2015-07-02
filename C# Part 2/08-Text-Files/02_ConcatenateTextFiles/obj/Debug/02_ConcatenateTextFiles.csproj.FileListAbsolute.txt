@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.pdb

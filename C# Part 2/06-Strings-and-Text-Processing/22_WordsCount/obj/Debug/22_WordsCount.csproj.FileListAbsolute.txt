@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\22_WordsCount\bin\Debug\22_WordsCount.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\22_WordsCount\bin\Debug\22_WordsCount.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\22_WordsCount\bin\Debug\22_WordsCount.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\22_WordsCount\obj\Debug\22_WordsCount.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\22_WordsCount\obj\Debug\22_WordsCount.pdb

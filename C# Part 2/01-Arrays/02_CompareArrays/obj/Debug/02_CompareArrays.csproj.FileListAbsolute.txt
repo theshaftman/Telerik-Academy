@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\02_CompareArrays\obj\Debug\02_CompareArrays.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\02_CompareArrays\obj\Debug\02_CompareArrays.pdb

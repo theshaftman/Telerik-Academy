@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\08_ExtractSentences\bin\Debug\08_ExtractSentences.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\08_ExtractSentences\bin\Debug\08_ExtractSentences.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\08_ExtractSentences\bin\Debug\08_ExtractSentences.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\08_ExtractSentences\obj\Debug\08_ExtractSentences.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\08_ExtractSentences\obj\Debug\08_ExtractSentences.pdb

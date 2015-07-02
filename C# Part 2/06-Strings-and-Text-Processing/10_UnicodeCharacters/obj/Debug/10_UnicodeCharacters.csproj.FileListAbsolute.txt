@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\10_UnicodeCharacters\bin\Debug\10_UnicodeCharacters.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\10_UnicodeCharacters\bin\Debug\10_UnicodeCharacters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\10_UnicodeCharacters\bin\Debug\10_UnicodeCharacters.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\10_UnicodeCharacters\obj\Debug\10_UnicodeCharacters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\10_UnicodeCharacters\obj\Debug\10_UnicodeCharacters.pdb

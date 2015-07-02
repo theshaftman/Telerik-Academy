@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\04_MaximalSequence\bin\Debug\04_MaximalSequence.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\04_MaximalSequence\bin\Debug\04_MaximalSequence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\04_MaximalSequence\bin\Debug\04_MaximalSequence.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\04_MaximalSequence\obj\Debug\04_MaximalSequence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\04_MaximalSequence\obj\Debug\04_MaximalSequence.pdb

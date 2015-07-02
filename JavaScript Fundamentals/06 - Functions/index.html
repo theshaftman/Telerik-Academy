@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Homework 6</title>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="tasks">
+		<div><h4>Task 1: English digit</h4> Write a function that returns the last digit of given integer as an English word.</div>
+			<label for="givenNumber">Number:</label>
+			<input type="text" id="givenNumber"><br />
+			<button href="#" onclick="englishDigit()">Return</button>
+		<div><h4>Task 2: Reverse number</h4> Write a function that reverses the digits of given decimal number.</div>
+			<label for="numberReverse">Number:</label>
+			<input type="text" id="numberReverse"><br />
+			<button href="#" onclick="reverseNumber()">Reverse</button>
+		<div><h4>Task 3: Occurrences of word</h4> Write a function that finds all the occurrences of word in a text.</div>
+			<textarea rows="6" cols="70" id="textArea"></textarea><br />
+			<label for="wordSearch">Word search:</label>
+			<input type="text" id="wordSearch"><br />
+			<input type="checkbox" name="caseSens">Case sensitive<br />
+			<button href="#" onclick="occurencesOfWord()">Search</button>
+		<div><h4>Task 4: Number of elements</h4> Write a function to count the number of div elements on the web page.</div>
+			<button href="#" onclick="numberOfElements()">Count</button>
+		<div><h4>Task 5: Appearance count</h4> Write a function that counts how many times given number appears in given array.</div>
+			<label for="tb-numbers">Numbers:</label>
+			<input type="text" id="tb-numbers"><br />
+			<label for="tb-second">Index position:</label>
+			<input type="text" id="tb-second"><br />
+			<button href="#" onclick="appearanceCount()">Count</button>
+		<div><h4>Task 6: Larger than neighbours</h4> Write a function that checks if the element at given position in given array of integers is bigger than its two neighbours (when such exist).</div>
+			<label for="neighbours">Array:</label>
+			<input type="text" id="tb-neighbours"><br />
+			<label for="tb-second">Index position:</label>
+			<input type="text" id="tb-neighPosition"><br />
+			<button href="#" onclick="largerThanNeighbours()">Check</button>
+		<div><h4>Task 7: First larger than neighbours</h4> Write a function that returns the index of the first element in array that is larger than its neighbours or -1, if there’s no such element.</div>
+			<label for="elementOfArray">Enter Array (separated by space):</label>
+			<input type="text" id="elementOfArray"><br />
+			<button href="#" onclick="firstLarger()">Check</button>	
+	</div>
+
+	<div class="results">
+		<p id="result1">Result Task 1:</p>
+		<p id="result2">Result Task 2:</p>
+		<p id="result3">Result Task 3:</p>
+		<p id="result4">Result Task 4:</p>
+		<p id="result5">Result Task 5:</p>
+		<p id="result6">Result Task 6:</p>
+		<p id="result7">Result Task 7:</p>
+	</div>
+
+	<script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>

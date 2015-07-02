@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\19_DatesFromTextInCanada\bin\Debug\19_DatesFromTextInCanada.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\19_DatesFromTextInCanada\bin\Debug\19_DatesFromTextInCanada.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\19_DatesFromTextInCanada\bin\Debug\19_DatesFromTextInCanada.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\19_DatesFromTextInCanada\obj\Debug\19_DatesFromTextInCanada.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\19_DatesFromTextInCanada\obj\Debug\19_DatesFromTextInCanada.pdb

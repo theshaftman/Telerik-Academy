@@ -1,0 +1,66 @@
+body section {
+    width: 500px;
+    color: black;
+    border: 1px solid black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background: #E8E8E8;
+    padding: 20px;
+}
+
+body section header div {
+    font-size: 18px;
+    letter-spacing: -1px;
+}
+
+.transbox {
+    width: 350px;
+    height: 35px;
+    padding: 0px 50px;
+}
+
+.btn {
+    border-top: 2px solid #E38382;
+    border-right: 2px solid #650000;
+    border-bottom: 2px solid #650000;
+    border-left: 2px solid #9C2829;
+    background: red;
+    box-shadow: inset 15px 0 0 #8A0000;
+    display: inline-block;
+    padding: 0 20px 0 20px;
+    color: white;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+
+body section article {
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    border: 1px solid black;
+    background: white;
+    overflow: hidden; 
+}
+
+body section article p {
+    margin: 0;
+}
+
+body section article header img {
+    float: left;
+    margin-right: 15px;
+    border: 1px solid #9A9592;
+}
+    
+body section article footer div {
+    text-align: right;
+}
+
+body section article footer div a {
+    text-decoration: none;
+    vertical-align: -30px;
+}
+
+body section article footer div a:hover {
+    text-decoration: underline;
+}

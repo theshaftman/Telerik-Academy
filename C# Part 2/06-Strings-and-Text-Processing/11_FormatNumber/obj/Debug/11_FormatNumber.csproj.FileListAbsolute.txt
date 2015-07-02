@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\11_FormatNumber\bin\Debug\11_FormatNumber.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\11_FormatNumber\bin\Debug\11_FormatNumber.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\11_FormatNumber\bin\Debug\11_FormatNumber.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\11_FormatNumber\obj\Debug\11_FormatNumber.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\11_FormatNumber\obj\Debug\11_FormatNumber.pdb

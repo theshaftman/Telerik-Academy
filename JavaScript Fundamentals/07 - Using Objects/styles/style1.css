@@ -1,0 +1,15 @@
+body, div, label, input, button, h4, p {
+	margin: 0;
+	padding: 0;
+}
+
+body div {
+	margin-left: 100px;
+	margin-top: 50px;
+	width: 85%;
+}
+
+body div.tasks div {
+	margin-left: 0px;
+	margin-top: 10px;
+}

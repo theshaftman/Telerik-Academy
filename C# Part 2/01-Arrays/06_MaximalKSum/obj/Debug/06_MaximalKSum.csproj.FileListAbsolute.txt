@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\06_MaximalKSum\bin\Debug\06_MaximalKSum.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\06_MaximalKSum\bin\Debug\06_MaximalKSum.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\06_MaximalKSum\bin\Debug\06_MaximalKSum.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\06_MaximalKSum\obj\Debug\06_MaximalKSum.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\06_MaximalKSum\obj\Debug\06_MaximalKSum.pdb

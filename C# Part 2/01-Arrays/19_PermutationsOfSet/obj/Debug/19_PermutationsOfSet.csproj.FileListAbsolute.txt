@@ -1,0 +1,1 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\19_PermutationsOfSet\bin\Debug\19_PermutationsOfSet.exe.config

@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\03_CorrectBrackets\bin\Debug\03_CorrectBrackets.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\03_CorrectBrackets\bin\Debug\03_CorrectBrackets.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\03_CorrectBrackets\bin\Debug\03_CorrectBrackets.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\03_CorrectBrackets\obj\Debug\03_CorrectBrackets.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\03_CorrectBrackets\obj\Debug\03_CorrectBrackets.pdb

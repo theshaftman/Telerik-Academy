@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\11_BinarySearch\obj\Debug\11_BinarySearch.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\11_BinarySearch\obj\Debug\11_BinarySearch.pdb

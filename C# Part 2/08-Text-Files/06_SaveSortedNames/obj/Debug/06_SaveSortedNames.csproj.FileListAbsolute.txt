@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.pdb

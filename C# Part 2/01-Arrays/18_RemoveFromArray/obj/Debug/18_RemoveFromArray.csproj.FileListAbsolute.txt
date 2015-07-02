@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\bin\Debug\18_RemoveFromArray.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\bin\Debug\18_RemoveFromArray.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\bin\Debug\18_RemoveFromArray.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\obj\Debug\18_RemoveFromArray.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\obj\Debug\18_RemoveFromArray.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\18_RemoveFromArray\obj\Debug\18_RemoveFromArray.pdb

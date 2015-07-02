@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\bin\Debug\13_ReverseSentence.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\bin\Debug\13_ReverseSentence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\bin\Debug\13_ReverseSentence.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\obj\Debug\13_ReverseSentence.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\obj\Debug\13_ReverseSentence.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\13_ReverseSentence\obj\Debug\13_ReverseSentence.pdb

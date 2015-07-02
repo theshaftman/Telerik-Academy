@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.pdb

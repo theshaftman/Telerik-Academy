@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\bin\Debug\15_PrimeNumbers.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\bin\Debug\15_PrimeNumbers.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\bin\Debug\15_PrimeNumbers.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\obj\Debug\15_PrimeNumbers.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\obj\Debug\15_PrimeNumbers.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\15_PrimeNumbers\obj\Debug\15_PrimeNumbers.csprojResolveAssemblyReference.cache

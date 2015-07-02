@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\09_ForbiddenWords\bin\Debug\09_ForbiddenWords.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\09_ForbiddenWords\bin\Debug\09_ForbiddenWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\09_ForbiddenWords\bin\Debug\09_ForbiddenWords.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\09_ForbiddenWords\obj\Debug\09_ForbiddenWords.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\09_ForbiddenWords\obj\Debug\09_ForbiddenWords.pdb

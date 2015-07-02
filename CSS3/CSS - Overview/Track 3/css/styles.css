@@ -1,0 +1,25 @@
+ /* CSS Document */
+ 
+header { text-align: center; color:white }
+
+header nav ul { list-style-type:none }
+
+header nav ul li a { color: white;
+                     text-decoration: none }
+
+header nav ul li a:hover { text-decoration:underline }
+
+footer { text-align:center }
+
+article header { text-align: left }
+
+article footer { text-align: left }
+
+article footer a { color: black;
+                   text-decoration: none }
+
+h1 { color:#FFFFCC }
+
+.current { background-color:#D0D0D0 }
+
+:root { background:#B0B0B0 }

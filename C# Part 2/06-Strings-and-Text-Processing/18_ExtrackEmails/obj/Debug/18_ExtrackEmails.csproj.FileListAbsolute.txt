@@ -1,0 +1,1 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\18_ExtrackEmails\bin\Debug\18_ExtrackEmails.exe.config

@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\14_WordDictionary\bin\Debug\14_WordDictionary.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\14_WordDictionary\bin\Debug\14_WordDictionary.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\14_WordDictionary\bin\Debug\14_WordDictionary.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\14_WordDictionary\obj\Debug\14_WordDictionary.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\14_WordDictionary\obj\Debug\14_WordDictionary.pdb

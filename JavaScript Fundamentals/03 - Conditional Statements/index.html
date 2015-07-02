@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Homework 3</title>
+	<meta charset="utf-8">
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="tasks">
+		<div><h4>Task 1: Exchange if greater</h4> Write an if statement that takes two double variables a and b and exchanges their values if the first one is greater than the second.</div>
+			<label for="greatest">Numbers:</label>
+			<input type="text" id="greatest1">
+			<input type="text" id="greatest2">
+			<button href="#" onclick="greatestNumber()">Examine</button>
+		<div><h4>Task 2: Multiplication Sign</h4> Write a script that shows the sign (+, - or 0) of the product of three real numbers, without calculating it.</div>
+			<label for="numbers">Numbers:</label>
+			<input type="text" id="number1">
+			<input type="text" id="number2">
+			<input type="text" id="number3">
+			<button href="#" onclick="showSign()">Show</button>
+		<div><h4>Task 3: The biggest of Three</h4> Write a script that finds the biggest of three numbers.</div>
+			<label for="integers">Numbers:</label>
+			<input type="text" id="integer1">
+			<input type="text" id="integer2">
+			<input type="text" id="integer3">
+			<button href="#" onclick="findBiggest()">Find</button>
+		<div><h4>Task 4: Sort 3 numbers</h4> Sort 3 real values in descending order.</div>
+			<label for="sort">Numbers:</label>
+			<input type="text" id="sort1">
+			<input type="text" id="sort2">
+			<input type="text" id="sort3">
+			<button href="#" onclick="sortNumbers()">Sort</button>
+		<div><h4>Task 5: Digit as word</h4> Write a script that asks for a digit (0-9), and depending on the input, shows the digit as a word (in English).</div>
+			<label for="digit">Digit:</label>
+			<input type="text" id="digit">
+			<button href="#" onclick="writeInEnglish()">Write</button>
+		<div><h4>Task 6: Quadratic equation</h4> Write a script that reads the coefficients a, b and c of a quadratic equation "ax2 + bx + c = 0" and solves it (prints its real roots).</div>
+		 	<label for="numA">a:</label>
+			<input type="text" id="numA"><br />
+			<label for="numB">b:</label>
+			<input type="text" id="numB"><br />
+			<label for="numC">c:</label>
+			<input type="text" id="numC">
+			<button href="#" onclick="calculateRoots()">Calculate</button>
+		<div><h4>Task 7: The biggest of five numbers</h4> Write a script that finds the greatest of given 5 variables.</div>
+			<label for="numbers">Numbers:</label><br />
+			<input type="text" id="variable1"><br />
+			<input type="text" id="variable2"><br />
+			<input type="text" id="variable3"><br />
+			<input type="text" id="variable4"><br />
+			<input type="text" id="variable5">			
+			<button href="#" onclick="findGreatest()">Find</button>
+		<div><h4>Task 8: Number as words</h4> Write a script that converts a number in the range [0…999] to words, corresponding to its English pronunciation.</div>
+			<label for="digitConverting">Number:</label>
+			<input type="text" id="digitConverting">
+			<button href="#" onclick="convertInEnglish()">Convert</button>
+	</div>
+
+	<div class="results">
+		<p id="result1">Result Task 1:</p>
+		<p id="result2">Result Task 2:</p>
+		<p id="result3">Result Task 3:</p>
+		<p id="result4">Result Task 4:</p>
+		<p id="result5">Result Task 5:</p>
+		<p id="result6">Result Task 6:</p>
+		<p id="result7">Result Task 7:</p>
+		<p id="result8">Result Task 8:</p>
+	</div>
+
+	<script src="scripts/script.js" type="text/javascript"></script>
+</body>
+</html>

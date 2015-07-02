@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\25_ExtractTextFromHTML\bin\Debug\25_ExtractTextFromHTML.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\25_ExtractTextFromHTML\bin\Debug\25_ExtractTextFromHTML.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\25_ExtractTextFromHTML\bin\Debug\25_ExtractTextFromHTML.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\25_ExtractTextFromHTML\obj\Debug\25_ExtractTextFromHTML.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\25_ExtractTextFromHTML\obj\Debug\25_ExtractTextFromHTML.pdb

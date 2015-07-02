@@ -1,0 +1,5 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\23_SeriesOfLetters\bin\Debug\23_SeriesOfLetters.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\23_SeriesOfLetters\bin\Debug\23_SeriesOfLetters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\23_SeriesOfLetters\bin\Debug\23_SeriesOfLetters.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\23_SeriesOfLetters\obj\Debug\23_SeriesOfLetters.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\23_SeriesOfLetters\obj\Debug\23_SeriesOfLetters.pdb

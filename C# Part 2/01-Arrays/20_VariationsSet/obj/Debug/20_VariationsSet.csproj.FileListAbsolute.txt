@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\bin\Debug\20_VariationsSet.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\bin\Debug\20_VariationsSet.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\bin\Debug\20_VariationsSet.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\obj\Debug\20_VariationsSet.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\obj\Debug\20_VariationsSet.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_1\Arrays\20_VariationsSet\obj\Debug\20_VariationsSet.pdb

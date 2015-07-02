@@ -1,0 +1,6 @@
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\bin\Debug\04_SubstringInText.exe.config
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\bin\Debug\04_SubstringInText.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\bin\Debug\04_SubstringInText.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\obj\Debug\04_SubstringInText.exe
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\obj\Debug\04_SubstringInText.pdb
+D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_6\Strings-and-Text-Processing\04_SubstringInText\obj\Debug\04_SubstringInText.csprojResolveAssemblyReference.cache
