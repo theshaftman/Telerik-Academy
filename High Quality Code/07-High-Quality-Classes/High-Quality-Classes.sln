@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Abstraction", "01_Abstraction\01_Abstraction.csproj", "{F4E15E82-C74B-45FF-8A72-B8270870155F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Cohesion_and_Coupling", "02_Cohesion_and_Coupling\02_Cohesion_and_Coupling.csproj", "{4A5CCD02-27BF-484F-8577-A0BBB3C79755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Inheritance_and_Polymorphism", "03_Inheritance_and_Polymorphism\03_Inheritance_and_Polymorphism.csproj", "{D5832435-F5B5-4542-9A53-07560EA61B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E15E82-C74B-45FF-8A72-B8270870155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E15E82-C74B-45FF-8A72-B8270870155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E15E82-C74B-45FF-8A72-B8270870155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E15E82-C74B-45FF-8A72-B8270870155F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5CCD02-27BF-484F-8577-A0BBB3C79755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5CCD02-27BF-484F-8577-A0BBB3C79755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5CCD02-27BF-484F-8577-A0BBB3C79755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5CCD02-27BF-484F-8577-A0BBB3C79755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5832435-F5B5-4542-9A53-07560EA61B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5832435-F5B5-4542-9A53-07560EA61B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5832435-F5B5-4542-9A53-07560EA61B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5832435-F5B5-4542-9A53-07560EA61B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
