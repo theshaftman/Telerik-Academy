@@ -3,3 +3,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_Conca
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\bin\Debug\02_ConcatenateTextFiles.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\02_ConcatenateTextFiles\obj\Debug\02_ConcatenateTextFiles.pdb

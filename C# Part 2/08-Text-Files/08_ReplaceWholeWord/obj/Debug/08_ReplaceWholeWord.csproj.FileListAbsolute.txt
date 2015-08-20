@@ -3,3 +3,8 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\08_Repla
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\08_ReplaceWholeWord\bin\Debug\08_ReplaceWholeWord.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\08_ReplaceWholeWord\obj\Debug\08_ReplaceWholeWord.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\08_ReplaceWholeWord\obj\Debug\08_ReplaceWholeWord.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\08_ReplaceWholeWord\bin\Debug\08_ReplaceWholeWord.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\08_ReplaceWholeWord\bin\Debug\08_ReplaceWholeWord.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\08_ReplaceWholeWord\bin\Debug\08_ReplaceWholeWord.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\08_ReplaceWholeWord\obj\Debug\08_ReplaceWholeWord.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\08_ReplaceWholeWord\obj\Debug\08_ReplaceWholeWord.pdb

@@ -4,3 +4,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\05_Maxim
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.pdb

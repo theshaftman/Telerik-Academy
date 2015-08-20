@@ -4,3 +4,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\09_Delet
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.csprojResolveAssemblyReference.cache
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\bin\Debug\09_DeleteOddLines.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\bin\Debug\09_DeleteOddLines.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\bin\Debug\09_DeleteOddLines.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\09_DeleteOddLines\obj\Debug\09_DeleteOddLines.pdb

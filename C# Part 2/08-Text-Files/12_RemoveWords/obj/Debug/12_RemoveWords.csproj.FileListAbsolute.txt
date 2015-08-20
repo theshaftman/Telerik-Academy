@@ -3,3 +3,8 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_Remov
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\12_RemoveWords\bin\Debug\12_RemoveWords.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\12_RemoveWords\obj\Debug\12_RemoveWords.pdb

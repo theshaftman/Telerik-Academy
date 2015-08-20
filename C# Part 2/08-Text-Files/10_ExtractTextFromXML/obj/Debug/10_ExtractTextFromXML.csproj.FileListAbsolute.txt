@@ -3,3 +3,8 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_Extra
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.pdb

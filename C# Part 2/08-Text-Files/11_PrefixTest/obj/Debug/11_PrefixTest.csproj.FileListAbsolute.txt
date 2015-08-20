@@ -4,3 +4,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\11_Prefi
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\11_PrefixTest\bin\Debug\11_PrefixTest.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\11_PrefixTest\obj\Debug\11_PrefixTest.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\11_PrefixTest\obj\Debug\11_PrefixTest.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\bin\Debug\11_PrefixTest.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\bin\Debug\11_PrefixTest.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\bin\Debug\11_PrefixTest.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\obj\Debug\11_PrefixTest.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\obj\Debug\11_PrefixTest.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\11_PrefixTest\obj\Debug\11_PrefixTest.pdb

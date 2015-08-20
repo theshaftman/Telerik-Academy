@@ -4,3 +4,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\07_Repla
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.csprojResolveAssemblyReference.cache
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\bin\Debug\07_ReplaceSubstring.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\bin\Debug\07_ReplaceSubstring.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\bin\Debug\07_ReplaceSubstring.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\07_ReplaceSubstring\obj\Debug\07_ReplaceSubstring.pdb

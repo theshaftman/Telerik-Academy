@@ -3,3 +3,8 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveS
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\06_SaveSortedNames\bin\Debug\06_SaveSortedNames.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\06_SaveSortedNames\obj\Debug\06_SaveSortedNames.pdb

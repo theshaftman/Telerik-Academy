@@ -3,3 +3,9 @@ D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\03_LineN
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\03_LineNumbers\bin\Debug\03_LineNumbers.pdb
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\03_LineNumbers\obj\Debug\03_LineNumbers.exe
 D:\C#\Visual Studio\Homework_Telerik_2015\CSharp2\Homework_8\Text-Files\03_LineNumbers\obj\Debug\03_LineNumbers.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\bin\Debug\03_LineNumbers.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\bin\Debug\03_LineNumbers.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\bin\Debug\03_LineNumbers.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\obj\Debug\03_LineNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\obj\Debug\03_LineNumbers.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\03_LineNumbers\obj\Debug\03_LineNumbers.pdb
