@@ -1,0 +1,6 @@
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\bin\Debug\01_OddLines.exe.config
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\bin\Debug\01_OddLines.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\bin\Debug\01_OddLines.pdb
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\obj\Debug\01_OddLines.csprojResolveAssemblyReference.cache
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\obj\Debug\01_OddLines.exe
+D:\GitHub2\TelerikAcademy\Telerik-Academy\C# Part 2\08-Text-Files\01_OddLines\obj\Debug\01_OddLines.pdb
