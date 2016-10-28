@@ -1,0 +1,5 @@
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\02_PrintStatistics\bin\Debug\02_PrintStatistics.exe.config
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\02_PrintStatistics\bin\Debug\02_PrintStatistics.exe
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\02_PrintStatistics\bin\Debug\02_PrintStatistics.pdb
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\02_PrintStatistics\obj\Debug\02_PrintStatistics.exe
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\02_PrintStatistics\obj\Debug\02_PrintStatistics.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\bin\Debug\01_Size.exe.config
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\bin\Debug\01_Size.exe
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\bin\Debug\01_Size.pdb
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\obj\Debug\01_Size.csprojResolveAssemblyReference.cache
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\obj\Debug\01_Size.exe
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_04\Variables-Data-Expressions-and-Constants\01_Size\obj\Debug\01_Size.pdb
