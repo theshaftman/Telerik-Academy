@@ -9,4 +9,6 @@ Over here you are able to see a part of the homeworks that I passed over learnin
 - [x] HTML 5
 - [x] CSS 3
 - [x] JavaScript Fundamentals
-- [ ] High-Quality Code
+- High-Quality Code
+  - [x] High-Quality Code - Part 1
+  - [x] High-Quality Code - Part 2
