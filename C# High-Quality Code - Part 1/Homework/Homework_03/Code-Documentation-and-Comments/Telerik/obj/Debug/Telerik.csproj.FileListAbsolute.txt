@@ -1,0 +1,6 @@
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\bin\Debug\Telerik.dll
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\bin\Debug\Telerik.pdb
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\obj\Debug\Telerik.csprojResolveAssemblyReference.cache
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\obj\Debug\Telerik.dll
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\obj\Debug\Telerik.pdb
+D:\Telerik\C# High-Quality Code - Part 1\Homework\Homework_03\Code-Documentation-and-Comments\Telerik\bin\Debug\Telerik.XML

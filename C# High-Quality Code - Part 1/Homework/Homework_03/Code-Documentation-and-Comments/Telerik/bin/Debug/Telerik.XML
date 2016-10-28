@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Telerik</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            String extensions static class.
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Hashes the given input into MD5.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the hashed value.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Checks if the given input equals one of the values.
+            </summary>
+            <param name="input">Input line.</param>
+            <returns>Returns boolean which checks if the input line contains any of the given values.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts the input string to a short value.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the input string converted to short.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts the given input to integer.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the converted integer value.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts the given input string to long.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the converted long value.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts the given input string to date time.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the converted date time.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalizes the first character of the given input string.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the input with the upper first character.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Gets a string that starts with and ends with a selected string. The end result starts from a index start index.
+            </summary>
+            <param name="input">Input string.</param>
+            <param name="startString">Start string input.</param>
+            <param name="endString">End string input.</param>
+            <param name="startFrom">Starts from index. If no start index is selected the default index equals 0.</param>
+            <returns>Return the converted string from the given start until its end.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts the cyrillic letters to latin in a given string input.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the input with changed letters type.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts the latin letters to cyrillic ones in the given string input.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the converted letters to cyrillic type.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Validates the given input string for user name.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the valid string.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Validates the given input string for a file.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the valid string.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first characters from a given string.
+            </summary>
+            <param name="input">Input string.</param>
+            <param name="charsCount">Characters number count.</param>
+            <returns>Return the given input string with the characters selected count.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the input last extension from the given input file name.
+            </summary>
+            <param name="fileName">Input file name string.</param>
+            <returns>Returns the last extension in a lowercase.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Gets the content type of the given input string file extension.
+            </summary>
+            <param name="fileExtension">Input file extension string.</param>
+            <returns>Returns the content type of the input file extension string.</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts the given input string to a byte array.
+            </summary>
+            <param name="input">Input string.</param>
+            <returns>Returns the byte converted array.</returns>
+        </member>
+    </members>
+</doc>
